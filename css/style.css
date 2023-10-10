@@ -1,0 +1,17 @@
+h1
+{
+	color:blue;
+	background-color:yellow ;
+}
+.heading1{
+	color:blue;
+	background-color:red;
+}
+.border{
+	border:5px red;
+}
+.box{
+	width:200px;
+	height:100px;
+	background-color:red ;
+}
